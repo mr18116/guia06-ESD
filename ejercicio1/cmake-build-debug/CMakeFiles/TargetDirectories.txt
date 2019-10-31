@@ -1,0 +1,3 @@
+/home/noe/CLionProjects/guia6/ejercicio1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/noe/CLionProjects/guia6/ejercicio1/cmake-build-debug/CMakeFiles/ejercicio1.dir
+/home/noe/CLionProjects/guia6/ejercicio1/cmake-build-debug/CMakeFiles/edit_cache.dir
